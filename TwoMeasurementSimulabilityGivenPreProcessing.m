@@ -8,7 +8,7 @@ SingleParty = genSinglePartyArray(oa,ma); % create deterministic strategies for 
 
 % In the following, we use the characterization of 2-simulability according
 % to Eq. (11) of the work 'Strict hierarchy between n-wise measurement simulability,
-% compatibility structures, and multi-copy compatibility' (see: arXiv:XXXX.YYYYY)
+% compatibility structures, and multi-copy compatibility' (see: arXiv:2506.21223)
 
 
 cvx_begin 
