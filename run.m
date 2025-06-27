@@ -1,5 +1,5 @@
 % This function is based on the work 'Strict hierarchy between n-wise measurement simulability,
-% compatibility structures, and multi-copy compatibility' (see: arXiv:XXXX.YYYYY)
+% compatibility structures, and multi-copy compatibility' (see: arXiv:2506.21223)
 
 
 % This manuscript assists the proof of Result 1 and provides the necessary
